@@ -64,10 +64,16 @@
 .book-author,
 .book-rating {
   margin: 0.25rem 0;
-  font-weight: bold;
+  
 }
 
 .book-text {
   margin-top: 0.5rem;
   line-height: 1.4;
+}
+
+.book-number {
+  font-style: italic;
+  margin-top: 0.5rem;
+  color: #666;
 }

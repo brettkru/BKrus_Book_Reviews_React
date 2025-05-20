@@ -7,6 +7,7 @@ export default function Books(props) {
         <p className="book-author">{props.author}</p>
         <p className="book-rating">{props.rating}</p>
         <p className="book-text">{props.text}</p>
+        <p className="book-number">{props.bookRead}</p>
       </div>
     </div>
   );
