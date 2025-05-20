@@ -28,21 +28,22 @@
   margin: 0;
 }
 
-
 .book-card {
   display: flex;
   gap: 1rem;
   align-items: flex-start;
   padding: 1.5rem;
   border-bottom: 1px solid #eee;
-  
+  font-family: "Inter", sans-serif;
+  background-color: #0f0502;
+  color: white;
 }
 
 .book-cover {
   width: 150px;
   height: auto;
   border-radius: 10px;
-  box-shadow: 10px 10px 5px rgb(87, 116, 125);
+  box-shadow: 7px 7px 5px rgb(237, 114, 6);
   transition: transform 0.3s ease;
 }
 
@@ -59,13 +60,29 @@
 
 .book-title {
   margin: 0;
-  font-size: 1.25rem;
+  font-size: 1.55rem;
+}
+
+.book-author {
+  font-style: italic;
+  font-size: 0.85rem;
 }
 
 .book-author,
 .book-rating {
   margin: 0.25rem 0;
-  
+}
+
+.book-rating {
+  display: inline-block; /* necessary */
+  align-self: flex-start; /* override column flex stretch */
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.5rem;
+  background-color: rgba(255, 255, 255, 0.08);
+  box-shadow: 0 0 10px rgba(236, 49, 7, 0.749);
+  font-weight: bold;
+  color: white;
+  white-space: nowrap;
 }
 
 .book-text {
