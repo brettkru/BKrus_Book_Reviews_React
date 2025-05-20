@@ -1,0 +1,73 @@
+/* Header  */
+
+.main-header {
+  background-image: url("./assets/back.png");
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  font-family: "Inter", sans-serif;
+  display: flex;
+  justify-content: center; /* centers horizontally */
+  align-items: center; /* centers vertically */
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem; /* space between logo and text */
+}
+
+.profile {
+  height: 180px; /* scales with aspect ratio */
+  width: auto;
+  border-radius: 50%;
+}
+
+.main-header > .header-content > h3 {
+  font-weight: 700;
+  color: #fff;
+  margin: 0;
+}
+
+
+.book-card {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  padding: 1.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+.book-cover {
+  width: 150px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px rgb(87, 116, 125);
+  transition: transform 0.3s ease;
+}
+
+.book-cover:hover {
+  transform: scale(1.05);
+}
+
+.book-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 600px;
+}
+
+.book-title {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.book-author,
+.book-rating {
+  margin: 0.25rem 0;
+  font-weight: bold;
+}
+
+.book-text {
+  margin-top: 0.5rem;
+  line-height: 1.4;
+}
