@@ -43,7 +43,7 @@
   width: 150px;
   height: auto;
   border-radius: 10px;
-  box-shadow: 7px 7px 5px rgb(237, 114, 6);
+  box-shadow: 7px 7px 5px rgb(152, 73, 4);
   transition: transform 0.3s ease;
 }
 
@@ -79,7 +79,7 @@
   padding: 0.2rem 0.4rem;
   border-radius: 0.5rem;
   background-color: rgba(255, 255, 255, 0.08);
-  box-shadow: 0 0 10px rgba(236, 49, 7, 0.749);
+  box-shadow: 0 0 10px rgba(18, 228, 221, 0.749);
   font-weight: bold;
   color: white;
   white-space: nowrap;
