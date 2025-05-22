@@ -9,7 +9,7 @@ export default function Header() {
           className="profile"
           alt="profile-picture"
         />
-        <h3>Bretts Book Reviews - 2025</h3>
+        <h3>Bretts Book Reviews</h3>
       </div>
     </header>
   );

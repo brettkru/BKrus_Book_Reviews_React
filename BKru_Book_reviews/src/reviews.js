@@ -15,7 +15,7 @@ export default [
     author: "Stephen King",
     rating: "3.8/5",
     text: "Juicy and had some bangers but not my favorite Stephen King.",
-    bookRead: "Book Read: 1/10",
+    bookRead: "2025 Reading Challenge - Book Read: 1/10",
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ export default [
     author: "Matt Dinneman",
     rating: "4/5",
     text: "Surprisingly fun romp. I was skeptical but it was genuinely funny and the writing kept me engaged. Worth adding to the list and I plan on finishing the seven part series.",
-    bookRead: "Book Read: 2/10",
+    bookRead: "2025 Reading Challenge - Book Read: 2/10",
   },
   {
     id: 3,
@@ -39,7 +39,7 @@ export default [
     author: "Walter Isaacson",
     rating: "3.48/5",
     text: "I couldn't do it.... I couldn't give this one a 4/5. Good but not great writing. Felt like he was beating me over the head with ColLaBoRaTiOn. I get it, they had help. Bro, have you seen my github commit log, you got the next Woz right here buddy. Anyway, 30% too long but not the worst.",
-    bookRead: "Book Read: 3/10",
+    bookRead: "2025 Reading Challenge - Book Read: 3/10",
   },
   {
     id: 4,
@@ -51,7 +51,7 @@ export default [
     author: "Khaled Hosseini",
     rating: "5/5",
     text: "Wow..... This is a book I'd prefer not to endure again as it hits very hard. Seeing this from the perspective of a U.S. service member who served during the War on Terror leaves a poignant aftermath, as if the sacrifice for a better Afghanistan for both the Afghani people and U.S. personnel was left just short of realization. Some of the lines, particularly during Miriams closing chapters were some of the best writings I've ever read... 5/5.",
-    bookRead: "Book Read: 4/10",
+    bookRead: "2025 Reading Challenge - Book Read: 4/10",
   },
   {
     id: 5,
@@ -63,6 +63,6 @@ export default [
     author: "Alexandre Dumas",
     rating: "4/5",
     text: "Man... If this one ended after page 300, easy 10/10. Honestly some of the best writing up until that point, just entertainment. After that it starts to dry up a bit. Don't get me wrong, I'm all about French court intrigue but >1000 pages of it, I think not good Sir. All that being said it was satisfying but he didn't quite stick the landing of a truly outstanding novel.",
-    bookRead: "Book Read: 5/10",
+    bookRead: "2025 Reading Challenge - Book Read: 5/10",
   },
 ];
