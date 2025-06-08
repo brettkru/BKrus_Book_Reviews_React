@@ -3,6 +3,7 @@ import dungeoncrawlercarl from "./assets/dungeoncrawlercarl.png";
 import innovators from "./assets/innovators.png";
 import splendid from "./assets/splendid.png";
 import countof from "./assets/countof.png";
+import falsegods from "./assets/falsegods.png";
 
 export default [
   {
@@ -64,5 +65,17 @@ export default [
     rating: "4/5",
     text: "Man... If this one ended after page 300, easy 10/10. Honestly some of the best writing up until that point, just entertainment. After that it starts to dry up a bit. Don't get me wrong, I'm all about French court intrigue but >1000 pages of it, I think not good Sir. All that being said it was satisfying but he didn't quite stick the landing of a truly outstanding novel.",
     bookRead: "Reading Challenge 📖  Book Read: 5/10 - May 2025",
+  },
+  {
+    id: 6,
+    img: {
+      src: falsegods,
+      alt: "False Gods - The Heresy Takes Root",
+    },
+    title: "False Gods - The Heresy Takes Root",
+    author: "Graham McNeill",
+    rating: "3/5",
+    text: "Light read but not as good as the first. Average",
+    bookRead: "Reading Challenge 📖  Book Read: 6/10 - June 2025",
   },
 ];
