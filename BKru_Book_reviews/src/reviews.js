@@ -4,6 +4,7 @@ import innovators from "./assets/innovators.png";
 import splendid from "./assets/splendid.png";
 import countof from "./assets/countof.png";
 import falsegods from "./assets/falsegods.png";
+import martyr from "./assets/martyr!.png";
 
 export default [
   {
@@ -77,5 +78,17 @@ export default [
     rating: "3/5",
     text: "Light read but not as good as the first. Average",
     bookRead: "Reading Challenge 📖  Book Read: 6/10 - June 2025",
+  },
+  {
+    id: 7,
+    img: {
+      src: martyr,
+      alt: "Martyr!",
+    },
+    title: "Martyr!",
+    author: "Kaveh Akbar",
+    rating: "3.78/5",
+    text: "Philosophical book trying to answer the question of what is means to live a good life. Eye opening and worth the read.",
+    bookRead: "Reading Challenge 📖  Book Read: 7/10 - June 2025",
   },
 ];
