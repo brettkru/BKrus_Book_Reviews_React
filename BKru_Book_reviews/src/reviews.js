@@ -5,6 +5,7 @@ import splendid from "./assets/splendid.png";
 import countof from "./assets/countof.png";
 import falsegods from "./assets/falsegods.png";
 import martyr from "./assets/martyr!.png";
+import orbital from "./assets/orbital.png";
 
 export default [
   {
@@ -90,5 +91,17 @@ export default [
     rating: "3.78/5",
     text: "Philosophical book trying to answer the question of what is means to live a good life. Eye opening and worth the read.",
     bookRead: "Reading Challenge 📖  Book Read: 7/10 - June 2025",
+  },
+  {
+    id: 8,
+    img: {
+      src: orbital,
+      alt: "Orbital",
+    },
+    title: "Orbital",
+    author: "Samantha Harvey",
+    rating: "3.0/5",
+    text: "The author does seem to have a special fascination with describing earth for example sprinkled throughout every chapter are random musings about earth geography, 'The Arctic, blue glean of the Indian Ocean, Sun wrapped around Sri Lanka` This is literally like 3/4ths of the book. Not the worst but I don't get the hype...",
+    bookRead: "Reading Challenge 📖  Book Read: 8/10 - July 2025",
   },
 ];
