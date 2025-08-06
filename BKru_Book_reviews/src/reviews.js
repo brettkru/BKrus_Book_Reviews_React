@@ -6,6 +6,7 @@ import countof from "./assets/countof.png";
 import falsegods from "./assets/falsegods.png";
 import martyr from "./assets/martyr!.png";
 import orbital from "./assets/orbital.png";
+import gentlemen from "./assets/gentleman.png";
 
 export default [
   {
@@ -103,5 +104,17 @@ export default [
     rating: "3.0/5",
     text: "The author does seem to have a special fascination with describing earth for example sprinkled throughout every chapter are random musings about earth geography, 'The Arctic, blue glean of the Indian Ocean, Sun wrapped around Sri Lanka` This is literally like 3/4ths of the book. Not the worst but I don't get the hype...",
     bookRead: "Reading Challenge 📖  Book Read: 8/10 - July 2025",
+  },
+  {
+    id: 9,
+    img: {
+      src: gentlemen,
+      alt: "gentleman from moscow",
+    },
+    title: "A Gentleman From Moscos",
+    author: "Amor Towles",
+    rating: "4.0/5",
+    text: "This book could have been so much different. By that I mean the author could have subjected the reader to the endless suffering of Post Red October Bolshevik Russia and WWII but instead the reader is treated to the Count and thank God. A light read that at times seems whimsical but will hit you with some of the most profound human observations. Although this isn't my normal reading faire, observing the Count navigate the world (localized within the vibrantly detailed Metropol Hotel) was simply a treat and one that I think many readers will enjoy. Worth the read and although slow at parts, know that it is building towards a satisfying conclusion.",
+    bookRead: "Reading Challenge 📖  Book Read: 9/10 - August 2025",
   },
 ];
