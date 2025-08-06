@@ -111,7 +111,7 @@ export default [
       src: gentlemen,
       alt: "gentleman from moscow",
     },
-    title: "A Gentleman From Moscos",
+    title: "A Gentleman From Moscow",
     author: "Amor Towles",
     rating: "4.0/5",
     text: "This book could have been so much different. By that I mean the author could have subjected the reader to the endless suffering of Post Red October Bolshevik Russia and WWII but instead the reader is treated to the Count and thank God. A light read that at times seems whimsical but will hit you with some of the most profound human observations. Although this isn't my normal reading faire, observing the Count navigate the world (localized within the vibrantly detailed Metropol Hotel) was simply a treat and one that I think many readers will enjoy. Worth the read and although slow at parts, know that it is building towards a satisfying conclusion.",
