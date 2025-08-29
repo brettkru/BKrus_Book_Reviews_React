@@ -7,6 +7,8 @@ import falsegods from "./assets/falsegods.png";
 import martyr from "./assets/martyr!.png";
 import orbital from "./assets/orbital.png";
 import gentlemen from "./assets/gentleman.png";
+import lilies from "./assets/lilies.png";
+import darkmatter from "./assets/darkmatter.png";
 
 export default [
   {
@@ -116,5 +118,31 @@ export default [
     rating: "4.0/5",
     text: "This book could have been so much different. By that I mean the author could have subjected the reader to the endless suffering of Post Red October Bolshevik Russia and WWII but instead the reader is treated to the Count and thank God. A light read that at times seems whimsical but will hit you with some of the most profound human observations. Although this isn't my normal reading faire, observing the Count navigate the world (localized within the vibrantly detailed Metropol Hotel) was simply a treat and one that I think many readers will enjoy. Worth the read and although slow at parts, know that it is building towards a satisfying conclusion.",
     bookRead: "Reading Challenge 📖  Book Read: 9/10 - August 2025",
+  },
+  {
+    id: 10,
+    img: {
+      src: lilies,
+      alt: "house of lilies",
+    },
+    title: "House of Lilies",
+    author: "Justine Firnhaber-Baker",
+    rating: "4.1/5",
+    text: "Excellent history book. Reads like a story and not a historical nonfiction. My better half recommended it and after subtly teeing it up for me, I'm glad I read this one. If you love French history or even if you don't typically read history books, this is the one you should pick up.",
+    bookRead:
+      "Reading Challenge 📖  Book Read: 10/10 - August 2025 **2025 Reading Challenge Complete**",
+  },
+  {
+    id: 11,
+    img: {
+      src: darkmatter,
+      alt: "dark matter",
+    },
+    title: "Dark Matter",
+    author: "Blake Crouch",
+    rating: "3.76/5",
+    text: "Great thriller. I've been disssapointed with a lot of thrillers the past few years but thankfully this one didn't let me down. This is just a solid sci-fi thriller and although its not 'Cant Put This Book Down' level, its worth checking out and you can read it in like 3 sittings.",
+    bookRead:
+      "Reading Challenge 📖  Book Read: 11/10 - August 2025 - Its all just gravy now that I reached my goal",
   },
 ];
