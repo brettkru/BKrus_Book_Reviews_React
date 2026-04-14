@@ -9,6 +9,7 @@ import orbital from "./assets/orbital.png";
 import gentlemen from "./assets/gentleman.png";
 import lilies from "./assets/lilies.png";
 import darkmatter from "./assets/darkmatter.png";
+import expanseBook1 from "./assets/expanseBook1.png";
 
 export default [
   {
@@ -144,5 +145,18 @@ export default [
     text: "Great thriller. I've been disssapointed with a lot of thrillers the past few years but thankfully this one didn't let me down. This is just a solid sci-fi thriller and although its not 'Cant Put This Book Down' level, its worth checking out and you can read it in like 3 sittings.",
     bookRead:
       "Reading Challenge 📖  Book Read: 11/10 - August 2025 - Its all just gravy now that I reached my goal",
+  },
+  {
+    id: 12,
+    img: {
+      src: expanseBook1,
+      alt: "expanseBook1",
+    },
+    title: "Leviation Wakes",
+    author: "James S Corey",
+    rating: "3.9/5",
+    text: "Good intro to the Expanse. I really liked Detective Millers chapters, he stole the show. Has enough meat to warrant diving into book 2. ",
+    bookRead:
+      "Reading Challenge 📖  Book Read: 1/10 - January 2026",
   },
 ];
