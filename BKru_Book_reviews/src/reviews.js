@@ -10,6 +10,7 @@ import gentlemen from "./assets/gentleman.png";
 import lilies from "./assets/lilies.png";
 import darkmatter from "./assets/darkmatter.png";
 import expanseBook1 from "./assets/expanseBook1.png";
+import expanseBook2 from "./assets/expanseBook2.png";
 
 export default [
   {
@@ -158,5 +159,18 @@ export default [
     text: "Good intro to the Expanse. I really liked Detective Millers chapters, he stole the show. Has enough meat to warrant diving into book 2. ",
     bookRead:
       "Reading Challenge 📖  Book Read: 1/10 - January 2026",
+  },
+  {
+    id: 13,
+    img: {
+      src: expanseBook2,
+      alt: "expanseBook2",
+    },
+    title: "Caliban's War",
+    author: "James S Corey",
+    rating: "2.9/5",
+    text: "I wanted to like this book more than I did. Overall, okay I guess. It got pretty formulaic and it took me like 10 years to finish this book as I started it ages ago. Hoping book 3 is a banger to get me back on-track. We need more Detective Miller!!!!!",
+    bookRead:
+      "Reading Challenge 📖  Book Read: 2/10 - March 2026",
   },
 ];
